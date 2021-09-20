@@ -6,6 +6,11 @@ The purpose of the module and challenge was to create a visualization dashboard 
 
 ## **CitiBike Analysis**
 
-Our first visual analysis was to show the total number of rides for the month in general:
+Tableau Dashboard Links:
 
-[link to dashboard](https://public.tableau.com/app/profile/tony.poolsombat/viz/BikeSharingBook/NumberofRides?publish=yes)
+[Citi Bike Story](https://public.tableau.com/app/profile/tony.poolsombat/viz/BikeSharingBook/CitiBikeStory?publish=yes)
+
+[Citi Bike Challenge](https://public.tableau.com/app/profile/tony.poolsombat/viz/CitiBikeChallengeStory_16321086631240/CitiBikeChallengeStory?publish=yes)
+
+
+
